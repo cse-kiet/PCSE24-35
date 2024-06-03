@@ -49,12 +49,4 @@ gdown "https://drive.google.com/uc?id=1S6GkQcDq8W0ThaUeZ708UegHIRiVWzTo&confirm=
 python predict.py model='best.pt' source='demo.mp4'
 ```
 
-### RESULTS
-
-#### Licence Plate  Detection and Recognition  
-![](./ultralytics/figure1.png)
-
-#### Licence Plate  Detection and Recognition
-
-![](./ultralytics/figure3.png)
 
